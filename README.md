@@ -1,3 +1,6 @@
+# MEVN
+**M**ongoDB **E**xpress **V**ue **N**ode
+
 ## Client
 
 ```
@@ -21,3 +24,8 @@ $ npm install
 $ npm install -g nodemon
 $ nodemon src/app.js
 ```
+
+## In Action
+
+### Local
+[http://localhost:8080/#/posts](http://localhost:8080/#/posts)
