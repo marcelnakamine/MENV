@@ -11,6 +11,10 @@ $ npm run dev
 
 ## Server
 
+### Start Mongo DB
+
+### Start server
+
 ```
 $ cd server
 $ npm install
